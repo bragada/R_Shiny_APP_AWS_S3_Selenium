@@ -1,4 +1,4 @@
-# Web App: R Shiny + AWS S3 + Web Scrapping
+# Web App: R Shiny + AWS S3 + Web Scrapping (Selenium) 
 
 O fluxo desse projeto se resume nos seguintes tópicos:
 
