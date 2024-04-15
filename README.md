@@ -10,4 +10,3 @@ O fluxo desse projeto se resume nos seguintes tópicos:
 
 link App: https://hkbragada.shinyapps.io/conecta_teste/
 
-![Uploading image.png…]()
