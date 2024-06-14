@@ -8,5 +8,5 @@ O fluxo desse projeto se resume nos seguintes tópicos:
  * Automação das 3 etapas anteriores usando taskscheduleR, que roda os scripts a cada 30 minutos
  * Criação de um Shiny APP e deploy no shinyio
 
-link App: https://hkbragada.shinyapps.io/conecta_teste/
+
 
